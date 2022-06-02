@@ -1,9 +1,10 @@
+theme: minima
+
 title: Jezper.co
 author: Jezper
 email: jezper@jezper.co
 description: > # this means to ignore newlines until "baseurl:"
   Unsolicited opinions about technology, design and everything else.
-theme: minima
 
 # social links
 twitter_username: jezperse
