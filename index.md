@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Jezoer.co"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Unsolicited opinions about technology, design and everything else.
