@@ -1,6 +1,7 @@
 ---
 title: "Standing your brand ground"
 date: 2022-06-02
+---
 
 > After the immense backlash to their suggested new logo: Here are the proposals for Frölunda HC’s new logo.
 > 
