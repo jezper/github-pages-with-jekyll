@@ -1,3 +1,7 @@
+---
+title: "Standing your brand ground"
+date: 2022-06-02
+
 > After the immense backlash to their suggested new logo: Here are the proposals for Frölunda HC’s new logo.
 > 
 > [SVT (Translated)](https://www-svt-se.translate.goog/nyheter/lokalt/vast/efter-logotypehaveriet-har-ar-forslagen-till-frolundas-nya-logga?_x_tr_sl=sv&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp)
